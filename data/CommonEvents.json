@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["柜子上锁了"]},{"code":0,"indent":0,"parameters":[]}],"name":"空柜子","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["好像很忙..."]},{"code":0,"indent":0,"parameters":[]}],"name":"不要打扰","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

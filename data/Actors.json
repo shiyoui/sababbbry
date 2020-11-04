@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"battlerName":"卡爹","characterIndex":0,"characterName":"卡爹","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"卡爹","traits":[],"initialLevel":50,"maxLevel":99,"name":"卡爹","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"鸭","characterIndex":0,"characterName":"鸭","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"鸭","traits":[],"initialLevel":6,"maxLevel":99,"name":"卡缇娅","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"贝拉","characterIndex":0,"characterName":"贝拉","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"贝拉","traits":[],"initialLevel":8,"maxLevel":99,"name":"贝拉","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"鸭","characterIndex":0,"characterName":"鸭","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"鸭2","traits":[],"initialLevel":6,"maxLevel":99,"name":"卡缇娅","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
